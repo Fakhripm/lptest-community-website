@@ -23,6 +23,7 @@
   },
   "pnpm": {
     "overrides": {
+      "launch-editor": "2.14.2",
       "@vue/server-renderer": "3.5.42",
       "@tiptap/core": "3.30.5"
     },
