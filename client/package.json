@@ -23,6 +23,7 @@
   },
   "pnpm": {
     "overrides": {
+      "node-forge": "1.4.1",
       "nanoid": "3.3.18",
       "launch-editor": "2.14.2",
       "@vue/server-renderer": "3.5.42",
