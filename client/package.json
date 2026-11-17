@@ -23,6 +23,7 @@
   },
   "pnpm": {
     "overrides": {
+      "svgo": "4.1.0",
       "source-map-js": "1.2.2",
       "shell-quote": "1.11.0",
       "seroval": "1.6.8",
