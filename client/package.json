@@ -23,6 +23,7 @@
   },
   "pnpm": {
     "overrides": {
+      "shell-quote": "1.11.0",
       "seroval": "1.6.8",
       "prosemirror-view": "1.42.3",
       "node-forge": "1.4.1",
